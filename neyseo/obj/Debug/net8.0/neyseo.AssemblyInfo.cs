@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("neyseo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+047f34aeada47af3093429346e489552f655f35e")]
 [assembly: System.Reflection.AssemblyProductAttribute("neyseo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("neyseo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
