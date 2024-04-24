@@ -8903,11 +8903,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\halit\\source\\repos\\MVCMarathon\\neyseo\\neyseo\\neyseo.csproj",
+      "projectUniqueName": "C:\\Users\\halit\\Desktop\\neysoticaret\\neyseo\\neyseo.csproj",
       "projectName": "neyseo",
-      "projectPath": "C:\\Users\\halit\\source\\repos\\MVCMarathon\\neyseo\\neyseo\\neyseo.csproj",
+      "projectPath": "C:\\Users\\halit\\Desktop\\neysoticaret\\neyseo\\neyseo.csproj",
       "packagesPath": "C:\\Users\\halit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\halit\\source\\repos\\MVCMarathon\\neyseo\\neyseo\\obj\\",
+      "outputPath": "C:\\Users\\halit\\Desktop\\neysoticaret\\neyseo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\halit\\AppData\\Roaming\\NuGet\\NuGet.Config",

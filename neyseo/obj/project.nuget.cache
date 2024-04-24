@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pg86XKP29FeR4XGKD1OPf5SZkjclYG4WbdxcFIDk838w9Lilf9R1Mi/P3r8GrcD5LDVGsPeQgAI+GZlhJwyfHQ==",
+  "dgSpecHash": "LgivQdhKDk7M9VieQjjVVdnqmL+i1zAD8+D6FyhiMojeDIuDojmJAxadhgE8Cl8R5Ob9v6er2zPkclqx03gD2g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\halit\\source\\repos\\MVCMarathon\\neyseo\\neyseo\\neyseo.csproj",
+  "projectFilePath": "C:\\Users\\halit\\Desktop\\neysoticaret\\neyseo\\neyseo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\halit\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\halit\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
